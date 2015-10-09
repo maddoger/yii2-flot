@@ -15,7 +15,7 @@
 	],
 	"require": {
 		"yiisoft/yii2": "*",
-		"bower-asset/highcharts.com": "4.*"
+		"bower-asset/highcharts-release": "~4.0"
 	},
 	"autoload": {
 		"psr-4": { "maddoger\\widgets\\": "" }

@@ -1,2 +1,2 @@
-# yii2-flot
-Yii2 JQuery Flot Wrapper
+# yii2-highcharts
+Yii2 Highcharts Wrapper
