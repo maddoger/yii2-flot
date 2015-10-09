@@ -1,0 +1,23 @@
+{
+	"name": "maddoger/yii2-highcharts",
+	"description": "jQuery Highcharts extension for the Yii 2 framework",
+	"keywords": ["yii", "highcharts", "jquery", "chart"],
+	"type": "yii2-extension",
+	"license": "Apache License",
+	"support": {
+		"source": "https://github.com/maddoger/yii2-highcharts"
+	},
+	"authors": [
+		{
+			"name": "Vitaliy Syrchikov",
+			"email": "maddoger@gmail.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*",
+		"bower-asset/highcharts.com": "4.*"
+	},
+	"autoload": {
+		"psr-4": { "maddoger\\widgets\\": "" }
+	}
+}
